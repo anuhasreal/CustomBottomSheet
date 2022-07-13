@@ -4,6 +4,11 @@ Animated Bottom Sheet With Rounded Corners
 
 <img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-CustomBottomSheet-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SARA" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge">
 
+### Normal Mode
+<img title="white" src="https://github.com/AnuhasRox/CustomBottomSheet/blob/main/Image/IMG_20220713_104907.png">
+
+### Dark Mode
+<img title="white" src="https://github.com/AnuhasRox/CustomBottomSheet/blob/main/Image/IMG_20220713_104930.png">
 
 
 
